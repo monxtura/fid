@@ -1,1 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Web Presence: Resume</title>
+<meta charset="utf-8">
 
+</head>
+
+<style>
+
+body{
+    background-color: lavender;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0 5%;
+    color: #7c5295;
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #7c5295;
+}
+
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #7c5295;
+}
+
+h5{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+span{
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     color:  #3c1361;
+     border-bottom: 1px solid  #3c1361;
+     margin-top: 30px;
+     font-size: 3em;
+       
+     
+}
+</style>
+
+   
+<div>
+<center>
+<span>Adriana Hernandez Vincenti</span>
+<img src="Images/Wolf_Poly.png" alt="Wolf Art" width="150" height="120">
+</center>
+</div>
+
+<h2><em>&#10085; Hello! Hola! Ciao!</em></h2>
+<p><dd>Welcome to my website! <br> My name is Adriana Vincenti and I am a full-time student at Seminole State College 
+    working to get a Digital Media bachelor's and hopefully a minor in fine arts. I can describe myself as a very 
+    creative person. I love working with all forms of art such as Paintings, Digital, Traditional, etc. I like to 
+    learn new things even if it's not part of my Digital Media career, anything can be incorporated into Artwork. 
+    I love to go above and beyond with my work to give myself a challenge. <strong> I'm ready to learn and discover new things 
+    to continuously update and pursue greater milestones.</strong></dd></p>
+
+<h2>&#10085; Skills</h2>
+
+<ul><ol>
+    <li>Github</li>
+    <li>HTML</li>
+    <li>Social Media</li>
+    <li>Photohgraphy</li>
+    <li>Video</li>
+    <li>Microsoft</li>
+    <li>Writing</li>
+    <ul>
+        <li>365 Fundimentals</li>
+        
+    </ul>
+    <li>Graphic Design</li>
+    <li>Adobe</li>
+    <UL>
+        <li>Photoshop</li>
+        <li>Illustrator</li>
+        <li>InDesign</li>
+        <li>Premiere Pro</li>
+    </UL>
+    <li>Digital Media
+    <ul>
+       <li>Traditional</li>
+       <li>Paintings</li>
+       <li>Sculpting</li>
+       
+    </ul>
+    </li>
+    </ol>
+</ul>
+
+<h2>&#10085; Software/Hardware</h2>
+<ul><ol>
+    <li>Photoshop</li>
+    <li>InDesign</li>
+    <li>Illustrator</li>
+    <li>Premiere Pro</li>
+    <li>Gimp</li>
+    <li>PaintTool Sai</li>
+
+</ol>
+</ul>
+
+<h2>&#10085; Social Media/Web</h2>
+<p><h3>You can reach me at:</h3></p>
+<p>
+<a href="https://www.instagram.com/monxtura/?igsh=ZDBscmt6MXlrb2dk&utm_source=qr" target="_blank">
+    <img src="icons/instagram.svg" alt="My instagram Page" width="60" height="60"></a>
+
+<a href="https://github.com/monxtura" target="_blank">
+    <img src="icons/github.svg" alt="My Github Page" width="60" height="60"></a>
+
+<a href="https://twitter.com/Monxtura" target="_blank">
+    <img src="icons/twitter.svg" alt="My Twitter Page" width="60" height="60"></a>
+
+<a href="https://www.linkedin.com/in/adriana-hernandez-vincenti-31574326b/" target="_blank">
+    <img src="icons/linkedin.svg" alt="My Linkedin Page" width="60" height="60"></a>
+
+</p>
+
+<h2>&#10085; Gallery</h2>
+<p>
+<a href="Kuromi and The Flash.html"><img src="Images/Kuromi and The Flash.jpg" alt="Kuromi and The Flash Hello Kitty Version" 
+width="300" height="300"></a>
+
+<a href="DMM Logo.html"><img src="Images/DMM_Logo.png" alt="DMM Logo Highschool" width="380" height="300"></a>
+</p>
+
+<p>
+<a href="David'sPerformance.html"><img src="Images/Car logo.jpeg" alt="Car Logo" width="450" height="400"></a>
+<a href="Winter Wonderland.html"><img src="Images/Winter_Wonderland.jpg" alt="Car Logo" width="400" height="400"></a>
+</p>
+
+<p>
+<a href="Vincenti.html"><img src="Images/Vincenti.png" alt="Character Creation" width="600" height="350"></a>
+<a href="Bendy.html"><img src="Images/Bendy.png" alt="Bendy and the inc machine OC" width="500" height="350"></a>
+</p>
+
+<p><small>	&#10084; All content copyright &copy;, Adriana Hernandez Vincenti &#10084;</small></p>
+
+</body>
+</html>
