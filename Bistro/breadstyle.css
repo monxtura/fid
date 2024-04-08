@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+body {
+    background-color: lavender;
+    margin: 0 10%;
+    text-align: center;
+    font-family: "Raleway", sans-serif;
+    }
+  
+  
+  h1 {
+    font-family: "Shadows Into Light", sans-serif;
+    text-align: center;
+    font-weight: normal;
+    text-transform: uppercase;
+    border-bottom: 1px solid darkorchid;
+    margin-top: 30px;
+    color: darkorchid;
+  }
+  
+  h2 {
+    color: darkorchid;
+    font-size: 1em;
+    font-family: "Raleway", sans-serif;
+  }
+
+  footer {
+    padding: 3em 1em 2em 1em;
+    background: 
+    url(photos/gooseshadow.png) 40% bottom no-repeat;
+  }
+
+a:link {
+    color: darkorchid;
+}
+
+a:visited {
+    color: #b061c1;
+}
+
+a:focus, a:hover {
+    color: #c700f2;
+    
+}

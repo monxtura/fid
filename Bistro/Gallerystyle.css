@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+
+body{
+    background: lavender url(photos/blackgoose.png) no-repeat center 100px fixed;
+    margin: 0 10%;
+    text-align: center;
+    font-family: "Raleway", sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-weight: normal;
+    text-transform: uppercase;
+    border-bottom: 1px solid darkorchid;
+    margin-top: 30px;
+    font-family: "Shadows Into Light", sans-serif;
+    color: darkorchid;
+
+}
+
+h3{
+    color: darkorchid;
+    font-size: 2em;
+    font-family: "Raleway", sans-serif;
+
+}
+
+a:link {
+    color: darkorchid;
+}
+
+a:visited {
+    color: #b061c1;
+}
+
+a:focus, a:hover {
+    color: #c700f2;
+    
+}
+
+ul {
+    position: relative;
+    display: inline-block;
+    padding-left: 1em;
+    left: 50%;
+    transform: translateX(-580%);
+}
+
+p.warning, sup {
+    font-size: small;
+  }
+
+.centered-list {
+    text-align: center;
+}
+

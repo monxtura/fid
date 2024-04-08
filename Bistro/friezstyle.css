@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+
+body {
+  background-color: lavender;
+  margin: 0 10%;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  color: darkorchid;
+}
+
+
+h1 {
+  text-align: center;
+  font-weight: normal;
+  text-transform: uppercase;
+  border-bottom: 1px solid darkorchid;
+  margin-top: 30px;
+  font-family: "Shadows Into Light", sans-serif;
+}
+
+h2 {
+  color: darkorchid;
+  font-size: 1em;
+}
+
+footer {
+    padding: 3em 1em 2em 1em;
+    background: 
+    url(photos/gooseshadow.png) 40% bottom no-repeat;
+  }
+
+a:link {
+    color: darkorchid;
+}
+
+a:visited {
+    color: #b061c1;
+}
+
+a:focus, a:hover {
+    color: #c700f2;
+    
+}
