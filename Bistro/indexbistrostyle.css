@@ -7,16 +7,15 @@ body {
     font-family: "Raleway", sans-serif;
 }
 
+  
 .centered-list {
     text-align: center;
 }
 
 ul {
-    position: relative;
-    display: inline-block;
-    padding-left: 1em;
-    left: 50%;
-    transform: translateX(-360%);
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
 h1 {

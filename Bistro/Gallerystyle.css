@@ -40,11 +40,9 @@ a:focus, a:hover {
 }
 
 ul {
-    position: relative;
-    display: inline-block;
-    padding-left: 1em;
-    left: 50%;
-    transform: translateX(-525%);
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
 p.warning, sup {
@@ -54,4 +52,5 @@ p.warning, sup {
 .centered-list {
     text-align: center;
 }
+
 

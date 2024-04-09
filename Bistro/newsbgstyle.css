@@ -23,11 +23,9 @@ h3{
 
 
 ul {
-    position: relative;
-    display: inline-block;
-    padding-left: 1em;
-    left: 50%;
-    transform: translateX(-445%);
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
 strong {
@@ -56,5 +54,6 @@ p.warning, sup {
   font-style: italic;
   color: darkmagenta;
 }
+
 
 

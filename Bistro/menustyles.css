@@ -1,0 +1,95 @@
+@charset "UTF-8";
+body {
+    font-family: "Raleway", sans-serif;
+    font-size: 100%;
+    line-height: 175%;
+    margin: 0 15% 0;
+    background: lavender url(photos/blackgoose.png) no-repeat center 100px fixed;
+  }
+  header {
+    margin-top: 0;
+    padding: 3em 1em 2em 1em;
+    text-align: center;
+  }
+
+  
+a:link {
+    color: darkorchid;
+}
+
+a:visited {
+    color: #b061c1;
+}
+
+a:focus, a:hover {
+    color: #c700f2;
+    
+}
+  
+  h1 {
+    font: bold 1.5em "Shadows Into Light", sans-serif;
+    text-shadow: .1em .1em .2em gray;
+    color: darkorchid;
+    font-size: xx-large;
+    border-bottom: 1px solid darkorchid; 
+    margin-top: 30px;
+  }
+  h2 {
+    font-size: 1em;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    text-align: center;
+    color: darkorchid; 
+  }
+  dt {
+    font-weight: bold;
+    color: black;
+  }
+  strong {
+    font-style: italic;
+    color: darkmagenta;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.icontext {
+  display: flex;
+  align-items: end;
+}
+
+.border-bottom {
+  border-bottom: 1px solid darkorchid; 
+}
+
+
+  #info p {
+    font-style: italic;
+  }
+  .price {
+    font-family: Georgia, serif;
+    font-style: italic;
+    color: darkmagenta;
+  }
+  p.warning, sup {
+    font-size: small;
+  }
+  .label {
+    font-weight: bold;
+    font-variant: small-caps;
+    font-style: normal;
+  }
+
+  .centered-list {
+    text-align: center;
+}
+  
+  h2 + p {
+    text-align: center;
+    font-style: italic;
+  }
+  
+  
