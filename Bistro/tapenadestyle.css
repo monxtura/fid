@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+body{
+        background: lavender;
+        font-family: "Raleway", sans-serif;
+        margin: 0 10%;
+        background: lavender url(photos/blackgoose.png) no-repeat center 100px fixed;
+    }
+
+h1{
+    color: darkorchid;
+    font: bold 1.5em "Shadows Into Light", sans-serif;
+
+}
+
+h2{
+    color: darkorchid;
+    font: bold 1.5em "Shadows Into Light", sans-serif;
+
+}
+
+.border-bottom {
+    border-bottom: 1px solid darkorchid; 
+  }
+
+img{
+    float: right;
+    margin: 0 12px;
+}
