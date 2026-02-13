@@ -37,6 +37,17 @@ header {
     
   }
 
+  .container {
+    display: flex; /* row */
+    gap: 10px; 
+    justify-content: center;
+  }
+
+  .container img {
+    max-width: 100%;
+    height: auto;
+  }
+
   footer {
     border-top: 1.5px solid darkorchid;
 }
